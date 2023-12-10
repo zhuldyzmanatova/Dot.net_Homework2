@@ -1,0 +1,14 @@
+C:\GeekBrains\C_Sharp\dotnet_homework2\bin\Debug\net8.0\dotnet_homework2.exe
+C:\GeekBrains\C_Sharp\dotnet_homework2\bin\Debug\net8.0\dotnet_homework2.deps.json
+C:\GeekBrains\C_Sharp\dotnet_homework2\bin\Debug\net8.0\dotnet_homework2.runtimeconfig.json
+C:\GeekBrains\C_Sharp\dotnet_homework2\bin\Debug\net8.0\dotnet_homework2.dll
+C:\GeekBrains\C_Sharp\dotnet_homework2\bin\Debug\net8.0\dotnet_homework2.pdb
+C:\GeekBrains\C_Sharp\dotnet_homework2\obj\Debug\net8.0\dotnet_homework2.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\C_Sharp\dotnet_homework2\obj\Debug\net8.0\dotnet_homework2.AssemblyInfoInputs.cache
+C:\GeekBrains\C_Sharp\dotnet_homework2\obj\Debug\net8.0\dotnet_homework2.AssemblyInfo.cs
+C:\GeekBrains\C_Sharp\dotnet_homework2\obj\Debug\net8.0\dotnet_homework2.csproj.CoreCompileInputs.cache
+C:\GeekBrains\C_Sharp\dotnet_homework2\obj\Debug\net8.0\dotnet_homework2.dll
+C:\GeekBrains\C_Sharp\dotnet_homework2\obj\Debug\net8.0\refint\dotnet_homework2.dll
+C:\GeekBrains\C_Sharp\dotnet_homework2\obj\Debug\net8.0\dotnet_homework2.pdb
+C:\GeekBrains\C_Sharp\dotnet_homework2\obj\Debug\net8.0\dotnet_homework2.genruntimeconfig.cache
+C:\GeekBrains\C_Sharp\dotnet_homework2\obj\Debug\net8.0\ref\dotnet_homework2.dll
